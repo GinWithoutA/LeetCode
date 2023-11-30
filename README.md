@@ -55,10 +55,12 @@ Morris 遍历利用了二叉树节点中空的**右孩子**指针，使其能够
 ##### 具体题目：
 
 - [LeetCode_0003：最长不重复字串](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0003_LongestSubstringWithoutRepeatingCharacters.java)
+- [LeetCode_0005：最长回文字串](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0005_LongestPalindromicSubstring.java)
 
 ## 10. 其他的一些题
 
-- [LeetCode_0004：找到两个有序数组的中位数](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0004_MedianOfTwoSortedArrays.java)
 - [LeetCode_0002：链表形式的两数之和](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0002_AddTwoNumbers.java)
+- [LeetCode_0004：找到两个有序数组的中位数](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0004_MedianOfTwoSortedArrays.java)
+- [LeetCode_0007：反转整数](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0007_ReverseInteger.java)
 - [LeetCode_0455：分发饼干](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0455_AssignCookies.java)
 - [LeetCode_0001：两数之和](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0001_TwoSum.java)
