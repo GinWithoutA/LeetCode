@@ -69,4 +69,4 @@ Morris 遍历利用了二叉树节点中空的**右孩子**指针，使其能够
 
 ### 第 373 周周赛
 
- - [1. LeetCode_2946：循环移位后的矩阵相似检查](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_2946_MatrixSimilarityAfterCyclicShifts.java)
+ - [第一题：LeetCode_2946：循环移位后的矩阵相似检查](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_2946_MatrixSimilarityAfterCyclicShifts.java)
