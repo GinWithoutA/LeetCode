@@ -57,6 +57,14 @@ Morris 遍历利用了二叉树节点中空的**右孩子**指针，使其能够
 - [LeetCode_0003：最长不重复字串](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0003_LongestSubstringWithoutRepeatingCharacters.java)
 - [LeetCode_0005：最长回文字串](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0005_LongestPalindromicSubstring.java)
 
+## 6. 双指针问题
+
+一般是数组问题，利用双指针可以得到最终的答案
+
+##### 具体题目：
+
+- [LeetCode_0011：能容纳的最大水量](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0011_ContainerWithMostWater.java)
+
 ## 10. 其他的一些题
 
 - [LeetCode_0002：链表形式的两数之和](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0002_AddTwoNumbers.java)
