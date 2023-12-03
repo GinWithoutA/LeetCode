@@ -66,6 +66,12 @@ Morris 遍历利用了二叉树节点中空的**右孩子**指针，使其能够
 
 - [LeetCode_0011：能容纳的最大水量](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0011_ContainerWithMostWater.java)
 
+## 7. 通过分析过程就能够求解的问题
+
+这类问题需要通过执行题目给定的流程，然后就能找到其中的规律，进行代码的编写
+
+- [LeetCode_1041：困于圆环中的机器人](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_1041_RobotBoundedInCircle.java)
+
 ## 10. 其他的一些题
 
 - [LeetCode_0002：链表形式的两数之和](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0002_AddTwoNumbers.java)
@@ -78,4 +84,10 @@ Morris 遍历利用了二叉树节点中空的**右孩子**指针，使其能够
 
 ### 第 373 周周赛
 
- - [第一题：LeetCode_2946：循环移位后的矩阵相似检查](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_2946_MatrixSimilarityAfterCyclicShifts.java)
+- [第一题：LeetCode_2946：循环移位后的矩阵相似检查](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_2946_MatrixSimilarityAfterCyclicShifts.java)
+
+## 12. LeetCode 公司题
+
+### (1) 高盛集团 Goldman Sachs
+
+- [LeetCode_1041：困于圆环中的机器人](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_1041_RobotBoundedInCircle.java)
