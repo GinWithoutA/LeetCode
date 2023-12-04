@@ -5,7 +5,7 @@ package org.ginwithouta.leetcode;
  * Generate at 2023/11/18
  * Problem : 最长回文子序列
  */
-public class Probelm_0516_LongestPalindromicSubsequence {
+public class Problem_0516_LongestPalindromicSubsequence {
     /**
      * 暴力递归
      */
