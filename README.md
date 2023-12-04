@@ -74,6 +74,7 @@ Morris 遍历利用了二叉树节点中空的**右孩子**指针，使其能够
 
 ## 8. 数组 / 字符串问题
 
+- [LeetCode_0027：原地移除数组中的元素](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0027_RemoveElement.java)
 - [LeetCode_0088：合并两个有序数组](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0088_MergeSortedArray.java)
 
 ## 10. 其他的一些题
