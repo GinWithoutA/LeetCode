@@ -53,10 +53,14 @@ Morris 遍历利用了二叉树节点中空的**右孩子**指针，使其能够
 
 ## 5. 字串子序列问题
 
+字串子序列涉及到双指针，KMP，Mannacher，等等
+
 ##### 具体题目：
 
 - [LeetCode_0003：最长不重复字串](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0003_LongestSubstringWithoutRepeatingCharacters.java)
 - [LeetCode_0005：最长回文字串](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0005_LongestPalindromicSubstring.java)
+- [LeetCode_0028：找出字符串中第一个匹配项的下标](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0028_FindTheIndexOfTheFirstOccurrenceInAString.java)
+
 
 ## 6. 双指针问题
 
@@ -81,6 +85,7 @@ Morris 遍历利用了二叉树节点中空的**右孩子**指针，使其能够
 - [LeetCode_0014：最长公共前缀](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0014_LongestCommonPrefix.java)
 - [LeetCode_0026：原地删除数组中的重复项](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0026_RemoveDuplicatesFromSortedArray.java)
 - [LeetCode_0027：原地移除数组中的元素](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0027_RemoveElement.java)
+- [LeetCode_0028：找出字符串中第一个匹配项的下标](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0028_FindTheIndexOfTheFirstOccurrenceInAString.java)
 - [LeetCode_0042：接雨水问题](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0042_TrappingRainWater.java)
 - [LeetCode_0045：跳跃游戏Ⅱ](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0045_JumpGameII.java)
 - [LeetCode_0055：跳跃游戏](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0055_JumpGame.java)
