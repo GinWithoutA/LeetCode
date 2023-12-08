@@ -75,7 +75,9 @@ Morris 遍历利用了二叉树节点中空的**右孩子**指针，使其能够
 
 这类问题需要通过执行题目给定的流程，然后就能找到其中的规律，进行代码的编写
 
+- [LeetCode_0068：文本左右对齐](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0068_TextJustification.java)
 - [LeetCode_1041：困于圆环中的机器人](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_1041_RobotBoundedInCircle.java)
+
 
 ## 8. 数组 / 字符串问题
 
@@ -90,6 +92,7 @@ Morris 遍历利用了二叉树节点中空的**右孩子**指针，使其能够
 - [LeetCode_0045：跳跃游戏Ⅱ](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0045_JumpGameII.java)
 - [LeetCode_0055：跳跃游戏](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0055_JumpGame.java)
 - [LeetCode_0058：最后一个单词的长度](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0058_LengthOfLastWord.java)
+- [LeetCode_0068：文本左右对齐](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0068_TextJustification.java)
 - [LeetCode_0080：原地删除数组中的重复项Ⅱ](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0080_RemoveDuplicatesFromSortedArrayII.java)
 - [LeetCode_0088：合并两个有序数组](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0088_MergeSortedArray.java)
 - [LeetCode_0121：买卖股票的最佳时机](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0121_BestTimeToBuyAndSellStock.java)
