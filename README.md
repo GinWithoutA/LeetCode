@@ -64,11 +64,12 @@ Morris 遍历利用了二叉树节点中空的**右孩子**指针，使其能够
 
 ## 6. 双指针问题
 
-一般是数组问题，利用双指针可以得到最终的答案
+一般是数组或者字符串问题，利用左右两个双指针可以得到最终的答案
 
 ##### 具体题目：
 
 - [LeetCode_0011：能容纳的最大水量](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0011_ContainerWithMostWater.java)
+- [LeetCode_0125：验证回文串](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0125_ValidPalindrome.java)
 - [LeetCode_0238：除自身以外数组的乘积](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0238_ProductOfArrayExceptSelf.java)
 
 ## 7. 通过分析过程就能够求解的问题
@@ -80,7 +81,6 @@ Morris 遍历利用了二叉树节点中空的**右孩子**指针，使其能够
 
 
 ## 8. 数组 / 字符串问题
-
 
 - [LeetCode_0012：整数变成罗马数字](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0013_RomanToInteger.java)
 - [LeetCode_0013：罗马数字转整数](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0013_RomanToInteger.java)
