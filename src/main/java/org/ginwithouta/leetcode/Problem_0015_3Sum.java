@@ -29,8 +29,8 @@ public class Problem_0015_3Sum {
 
     public List<List<Integer>> twoSum(int[] nums, int target, int end) {
         /*
-         * 两数之和的另一种解法，在添加答案的时候也需要判断当前的数和上一次判断的数是否相同，这样就能保证不会
-         * 收集到相同的答案
+         * 两数之和的另一种解法:
+         * 在添加答案的时候也需要判断当前的数和上一次判断的数是否相同，这样就能保证不会，收集到相同的答案
          */
         int left = 0, right = end;
         List<List<Integer>> res = new ArrayList<>();
