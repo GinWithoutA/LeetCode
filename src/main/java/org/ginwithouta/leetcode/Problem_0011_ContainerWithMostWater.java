@@ -23,4 +23,30 @@ public class Problem_0011_ContainerWithMostWater {
         }
         return water;
     }
+
+    /**
+     * 剪枝版本
+     */
+    public int maxAreaPrune(int[] height) {
+        /*
+         * 在上面的版本中，每个元素都操作都是找到当前短的边，然后短的边加 1
+         * 此时就可能遇到后面的边比当前的边还小，那么这种情况肯定不会是答案，因此我们可以提前进行一次判断，减少后续操作的次数
+         */
+        int left = 0, right = height.length - 1, ans = 0, curLeft, curRight;
+        while (left < right) {
+            ans = Math.max(ans, Math.min(height[left], height[right]) * (right - left));
+            if (height[left] <= height[right]) {
+                curLeft = height[left];
+                while (left < right && height[left] <= curLeft) {
+                    ++left;
+                }
+            } else {
+                curRight = height[right];
+                while (left < right && height[right] <= curRight) {
+                    --right;
+                }
+            }
+        }
+        return ans;
+    }
 }
