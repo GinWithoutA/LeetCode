@@ -24,7 +24,7 @@ public class Problem_0094_BinaryTreeInorderTraversal {
             return result;
         }
         if (root.left == null && root.right == null) {
-            result.add(root.value);
+            result.add(root.val);
             return result;
         }
         TreeNode cur = root, mostRight;
@@ -41,7 +41,7 @@ public class Problem_0094_BinaryTreeInorderTraversal {
                 }
                 mostRight.right = null;
             }
-            result.add(cur.value);
+            result.add(cur.val);
             cur = cur.right;
         }
         return result;
