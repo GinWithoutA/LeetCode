@@ -122,7 +122,14 @@ Morris 遍历利用了二叉树节点中空的**右孩子**指针，使其能够
 - [LeetCode_0134：加油站问题](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0134_GasStation.java)
 - [LeetCode_0209：长度最小的子数组](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0209_MinimumSizeSubarraySum.java)
 
-## 10. 编码方式解决问题
+## 10. 二分法
+
+二分法不仅可以用于已经整理好数据的数组中，也可以用于一些有着特定规则的数组中
+
+- [LeetCode_0162：寻找峰值](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0162_FindPeakElement.java)
+- [LeetCode_1901：寻找峰值Ⅱ](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_1901_FindAPeakElementII.java)
+
+## 11. 编码方式解决问题
 
 这类问题大都不需要太多的算法技巧，都是考察的编码技巧就能解决
 
@@ -135,13 +142,13 @@ Morris 遍历利用了二叉树节点中空的**右孩子**指针，使其能够
 - [LeetCode_0455：分发饼干](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0455_AssignCookies.java)
 - [LeetCode_0001：两数之和](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0001_TwoSum.java)
 
-## 11. LeetCode 周赛
+## 12. LeetCode 周赛
 
 ### 第 373 周周赛
 
 - [第一题：LeetCode_2946：循环移位后的矩阵相似检查](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_2946_MatrixSimilarityAfterCyclicShifts.java)
 
-## 12. LeetCode 公司题
+## 13. LeetCode 公司题
 
 ### (1) 高盛集团 Goldman Sachs
 
