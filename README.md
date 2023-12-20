@@ -114,6 +114,7 @@ Morris 遍历利用了二叉树节点中空的**右孩子**指针，使其能够
 - [LeetCode_0274：H 指数](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0274_HIndex.java)
 - [LeetCode_0380：O\(1\) 时间插入、删除和获取随机元素](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0380_InsertDeleteGetrandomO1.java)
 - [LeetCode_0238：除自身以外数组的乘积](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0238_ProductOfArrayExceptSelf.java)
+- [LeetCode_0383：赎金信](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0383_RansomNote.java)
 - [LeetCode_2828：首字母缩略词](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_2828_CheckIfAStringIsAnAcronymOfWords.java)
 
 ## 9. 滑动窗口问题
