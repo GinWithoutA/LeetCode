@@ -2,7 +2,6 @@ package org.ginwithouta.leetcode;
 
 import java.util.HashMap;
 import java.util.Map;
-import java.util.Objects;
 
 /**
  * @author Ginwithouta
@@ -10,7 +9,7 @@ import java.util.Objects;
  * Problem 单词规律
  * @link Problem_0205_IsomorphicStrings
  */
-public class Prolem_0290_WordPattern {
+public class Problem_0290_WordPattern {
     public boolean wordPattern(String pattern, String s) {
         /*
          * 有点类似另一题，单词对应，也是双射问题
