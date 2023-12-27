@@ -57,6 +57,7 @@ Morris 遍历利用了二叉树节点中空的**右孩子**指针，使其能够
 - [LeetCode_0023：合并 K 个有序链表](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0023_MergeKSortedList.java)
 - [LeetCode_0056：合并重叠区间](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0056_MergeIntervals.java)
 - [LeetCode_0205：同构字符串](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0205_IsomorphicStrings.java)
+- [LeetCode_0242：有效的字母异位词](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0242_ValidAnagram.java)
 - [LeetCode_0290：单词规律](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0290_WordPattern.java)
 
 ## 5. 字串子序列问题
