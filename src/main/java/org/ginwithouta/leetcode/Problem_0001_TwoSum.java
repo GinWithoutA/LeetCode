@@ -12,7 +12,7 @@ public class Problem_0001_TwoSum {
     public int[] twoSum(int[] nums, int target) {
         /*
          * 用一个 Map，Key 表示 target 减去当前元素还剩余的值，每遍历一个元素就判断当前元素是否存在 map 中，
-         * 如果存在，就表明这两个数就是需要的两数之和
+         * 如果存在，就表明之前有一个数给 target 减之后就等于当前数，而这两个数就是需要的两数之和
          */
         Map<Integer, Integer> map = new HashMap<>();
         for (int i = 0; i < nums.length; ++i) {
