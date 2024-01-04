@@ -149,21 +149,32 @@ Morris 遍历利用了二叉树节点中空的**右孩子**指针，使其能够
 - [LeetCode_0002：链表形式的两数之和](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0002_AddTwoNumbers.java)
 - [LeetCode_0004：找到两个有序数组的中位数](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0004_MedianOfTwoSortedArrays.java)
 - [LeetCode_0007：反转整数](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0007_ReverseInteger.java)
-- [LeetCode_0036：有效的数独]()
-- [LeetCode_0048：旋转图像]()
-- [LeetCode_0054：螺旋矩阵]()
+- [LeetCode_0036：有效的数独](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0036_ValidSudoku.java)
+- [LeetCode_0048：旋转图像](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0048_RotateImage.java)
+- [LeetCode_0054：螺旋矩阵](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0054_SpiralMatrix.java)
 - [LeetCode_0073：矩阵置零](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0073_SetMatrixZeroes.java)
 - [LeetCode_0228：合并区间](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0228_SummaryRanges.java)
 - [LeetCode_0455：分发饼干](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0455_AssignCookies.java)
 - [LeetCode_2706：购买两块巧克力](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_2706_BuyTwoChocolates.java)
 
-## 12. LeetCode 周赛
+## 12. 思路转化
+
+## 13. LeetCode 周赛
+
+这类问题如果直直的做，很难做出来，但如果根据给定数据的特殊性以及测试样本的特殊性入手，就可以完成
+
+### （1）二进制转化
+
+这类问题比如给定了一个数组，里面全部是 0 和 1 组成的，就可以考虑是否可以用二进制来替换
+
+##### 具体题目：
+- [LeetCode_2397：被列覆盖的最多行数](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_2397_MaximumRowsCoveredByColumns.java)
 
 ### 第 373 周周赛
 
 - [第一题：LeetCode_2946：循环移位后的矩阵相似检查](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_2946_MatrixSimilarityAfterCyclicShifts.java)
 
-## 13. LeetCode 公司题
+## 14. LeetCode 公司题
 
 ### (1) 高盛集团 Goldman Sachs
 
