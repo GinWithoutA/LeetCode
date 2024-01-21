@@ -179,9 +179,7 @@ Morris 遍历利用了二叉树节点中空的**右孩子**指针，使其能够
 - [LeetCode_1041：困于圆环中的机器人](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_1041_RobotBoundedInCircle.java)
 
 ## 15. 数据结构
-
 ### （1）栈
-
 ##### 具体题目：
 - [LeetCode_0020：括号匹配](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0020_ValidParentheses.java)
 - [LeetCode_0071：简化路径](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0071_SimplifyPath.java)
