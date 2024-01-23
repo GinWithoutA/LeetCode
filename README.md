@@ -191,6 +191,7 @@ Morris 遍历利用了二叉树节点中空的**右孩子**指针，使其能够
 - [LeetCode_0019：删除链表的倒数第 N 个结点](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0019_RemoveNthNodeFromEndOfList.java)
 - [LeetCode_0021：合并两个有序链表](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0021_MergeTwoSortedLists.java)
 - [LeetCode_0025：K组一个翻转链表](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0025_ReverseNodesInKGroup.java)
+- [LeetCode_0082：删除链表中的重复元素Ⅱ](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0082_RemoveDuplicatesFromSortedListII.java)
 - [LeetCode_0092：反转链表Ⅱ](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0092_ReverseLinkedListII.java)
 - [LeetCode_0138：随机链表的复制](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0138_CopyListWithRandomPointer.java)
 - [LeetCode_0141：环形链表](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0141_LinkedListCycle.java)
