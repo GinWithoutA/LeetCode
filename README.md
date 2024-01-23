@@ -188,6 +188,7 @@ Morris 遍历利用了二叉树节点中空的**右孩子**指针，使其能够
 - [LeetCode_0224：基本计算器](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0224_BasicCalculator.java)
 ### （2）链表
 ##### 具体题目：
+- [LeetCode_0019：删除链表的倒数第 N 个结点](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0019_RemoveNthNodeFromEndOfList.java)
 - [LeetCode_0021：合并两个有序链表](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0021_MergeTwoSortedLists.java)
 - [LeetCode_0025：K组一个翻转链表](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0025_ReverseNodesInKGroup.java)
 - [LeetCode_0092：反转链表Ⅱ](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0092_ReverseLinkedListII.java)
