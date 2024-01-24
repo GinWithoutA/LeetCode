@@ -14,10 +14,12 @@ public class TreeNode {
         this.val = val;
         this.left = null;
         this.right = null;
+        this.next = null;
     }
-    public TreeNode(int val, TreeNode left, TreeNode right) {
+    public TreeNode(int val, TreeNode left, TreeNode right, TreeNode next) {
         this.val = val;
         this.left = left;
         this.right = right;
+        this.next = next;
     }
 }
