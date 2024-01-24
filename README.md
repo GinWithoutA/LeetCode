@@ -2,22 +2,6 @@
 
 这里记录了 LeetCode 中写过的所有问题
 
-## 1. 跟树有关的
-### 1.1 二叉树遍历
-#### 1.1.1 Morris 遍历
-
-Morris 遍历利用了二叉树节点中空的**右孩子**指针，使其能够指向中序的后继节点，从而完成遍历
-
-##### 具体题目：
-
--  [LeetCode_0094：二叉树的中序遍历](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0094_BinaryTreeInorderTraversal.java)
-
-#### 1.1.2 普通的 DFS 或者 BFS遍历
-
-##### 具体题目：
-
-- [LeetCode_2415：反转二叉树的奇数层](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_2415_ReverseOddLevelsOfBinaryTree.java)
-
 ## 2. 从暴力递归到动态规划
 
 动态规划的开始都是从暴力递归的尝试开启的，只要能够找到合适的暴力递归的书写流程，那么就能够改成动态规划<br>
@@ -199,3 +183,12 @@ Morris 遍历利用了二叉树节点中空的**右孩子**指针，使其能够
 - [LeetCode_0138：随机链表的复制](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0138_CopyListWithRandomPointer.java)
 - [LeetCode_0141：环形链表](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0141_LinkedListCycle.java)
 - [LeetCode_0146：LRU缓存](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0146_LRUCache.java)
+### （2）树
+##### 具体题目
+- [LeetCode_0104：二叉树的最大深度](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0104_MaximumDepthOfBinaryTree.java)
+
+**Morris 遍历**
+<br>Morris 遍历利用了二叉树节点中空的**右孩子**指针，使其能够指向中序的后继节点，从而完成遍历
+-  [LeetCode_0094：二叉树的中序遍历](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0094_BinaryTreeInorderTraversal.java)
+
+- [LeetCode_2415：反转二叉树的奇数层](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_2415_ReverseOddLevelsOfBinaryTree.java)
