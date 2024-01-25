@@ -7,7 +7,7 @@ import org.ginwithouta.leetcode.common.TreeNode;
  * Generate at 2024/1/25
  * Problem 二叉树展开为链表
  */
-public class Problem_FlattenBinaryTreeToLinkedList {
+public class Problem_0114_FlattenBinaryTreeToLinkedList {
     public static void flatten(TreeNode root) {
         /*
          * 前序遍历，记录不断变化的 pre 就可以
