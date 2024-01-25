@@ -110,6 +110,7 @@
 - [LeetCode_0238：除自身以外数组的乘积](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0238_ProductOfArrayExceptSelf.java)
 - [LeetCode_0383：赎金信](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0383_RansomNote.java)
 - [LeetCode_2828：首字母缩略词](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_2828_CheckIfAStringIsAnAcronymOfWords.java)
+- [LeetCode_2859：计算 K 位置下标对应元素的和](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_2859_SumOfValuesAtIndicesWithKSetBits.java)
 
 ## 9. 滑动窗口问题
 
