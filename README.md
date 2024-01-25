@@ -195,6 +195,7 @@
 - [LeetCode_0112：路径总和](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0112_PathSum.java)
 - [LeetCode_0114：二叉树展开成链表](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0114_FlattenBinaryTreeToLinkedList.java)
 - [LeetCode_0117：填充每个节点的下一个右侧节点指针Ⅱ](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0117_PopulatingNextRightPointersInEachNodeII.java)
+- [LeetCode_0129：求根节点到叶节点数字之和](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0129_SumRootToLeafNumbers.java)
 - [LeetCode_0226：反转二叉树](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0226_InvertBinaryTree.java)
 - [LeetCode_2415：反转二叉树的奇数层](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_2415_ReverseOddLevelsOfBinaryTree.java)
 --------------------------------------------------------------------------------
