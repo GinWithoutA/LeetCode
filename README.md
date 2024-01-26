@@ -205,6 +205,7 @@
 #### （2.2）二叉树层次遍历
 ##### 具体题目
 - [LeetCode_0199：二叉树的右视图](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0199_BinaryTreeRightSideView.java)
+- [LeetCode_0637：二叉树的层平均值](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0637_AverageOfLevelsInBinaryTree.java)
 --------------------------------------------------------------------------------
 **Morris 遍历**
 <br>Morris 遍历利用了二叉树节点中空的**右孩子**指针，使其能够指向中序的后继节点，从而完成遍历
