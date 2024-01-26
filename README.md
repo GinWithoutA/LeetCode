@@ -208,6 +208,10 @@
 - [LeetCode_0102：二叉树层次遍历](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0102_BinaryTreeLevelOrderTraversal.java)
 - [LeetCode_0103：二叉树的锯齿形层序遍历](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0103_BinaryTreeZigzagLevelOrderTraversal.java)
 - [LeetCode_0637：二叉树的层平均值](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0637_AverageOfLevelsInBinaryTree.java)
+#### （2.3）二叉搜索树
+##### 具体题目
+- [LeetCode_0530：二叉搜索树的最小绝对差](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0530_MinimumAbsoluteDifferrenceInBst.java)
+- 
 --------------------------------------------------------------------------------
 **Morris 遍历**
 <br>Morris 遍历利用了二叉树节点中空的**右孩子**指针，使其能够指向中序的后继节点，从而完成遍历
