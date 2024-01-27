@@ -30,9 +30,9 @@ public class Problem_0200_NumberOfIslands {
             return;
         }
         flag[rowIndex][colIndex] = 1;
-        process(grid, flag, rowIndex + 1, colIndex);
-        process(grid, flag, rowIndex - 1, colIndex);
-        process(grid, flag, rowIndex, colIndex + 1);
-        process(grid, flag, rowIndex, colIndex - 1);
+        dfs(grid, flag, rowIndex + 1, colIndex);
+        dfs(grid, flag, rowIndex - 1, colIndex);
+        dfs(grid, flag, rowIndex, colIndex + 1);
+        dfs(grid, flag, rowIndex, colIndex - 1);
     }
 }
