@@ -219,13 +219,12 @@
 -  [LeetCode_0094：二叉树的中序遍历](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0094_BinaryTreeInorderTraversal.java)
 --------------------------------------------------------------------------------
 ## 16. 图
-##### 具体数字
-- [LeetCode_0200：岛屿数量](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0200_NumberOfIslands.java)
-## 17. 数字
-##### 具体数字
-- [LeetCode_0009：回文数](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0009_PalindromeNumber.java)
-- [LeetCode_0066：加一](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0066_PlusOne.java)
+##### 具体题目
 - [LeetCode_0130：被围绕的区域](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0130_SurroundedRegions.java)
 - [LeetCode_0200：岛屿数量](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0200_NumberOfIslands.java)
 - [LeetCode_0200：岛屿数量（并查集版本）](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0200_NumberOfIslands_UnionSet.java)
 - [LeetCode_0200：岛屿数量（优化的并查集版本）](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0200_NumberOfIslands_UnionSet_better.java)
+## 17. 数字
+##### 具体数字
+- [LeetCode_0009：回文数](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0009_PalindromeNumber.java)
+- [LeetCode_0066：加一](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0066_PlusOne.java)
