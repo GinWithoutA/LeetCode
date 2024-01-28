@@ -228,3 +228,4 @@
 ##### 具体数字
 - [LeetCode_0009：回文数](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0009_PalindromeNumber.java)
 - [LeetCode_0066：加一](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0066_PlusOne.java)
+- [LeetCode_0172：阶乘后的零](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0172_FactorialTrailingZeroes.java)
