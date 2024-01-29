@@ -1,6 +1,6 @@
 package org.ginwithouta.leetcode;
 
-import org.ginwithouta.leetcode.common.ListNode;
+import org.ginwithouta.leetcode.common.tree.ListNode;
 
 import java.util.Comparator;
 import java.util.PriorityQueue;

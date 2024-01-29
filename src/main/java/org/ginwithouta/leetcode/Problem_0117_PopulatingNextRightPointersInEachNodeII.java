@@ -1,6 +1,6 @@
 package org.ginwithouta.leetcode;
 
-import org.ginwithouta.leetcode.common.Node;
+import org.ginwithouta.leetcode.common.tree.Node;
 
 import java.util.LinkedList;
 import java.util.Queue;

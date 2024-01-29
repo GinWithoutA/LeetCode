@@ -1,4 +1,4 @@
-package org.ginwithouta.leetcode.common;
+package org.ginwithouta.leetcode.common.tree;
 
 /**
  * @author Ginwithouta
