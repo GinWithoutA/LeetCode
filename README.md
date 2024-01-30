@@ -109,6 +109,7 @@
 - [LeetCode_0380：O\(1\) 时间插入、删除和获取随机元素](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0380_InsertDeleteGetrandomO1.java)
 - [LeetCode_0238：除自身以外数组的乘积](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0238_ProductOfArrayExceptSelf.java)
 - [LeetCode_0383：赎金信](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0383_RansomNote.java)
+- [LeetCode_2808：使循环数组所有元素相等的最少秒数](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_2808_MinimumSecondsToEqualizeACircularArray.java)
 - [LeetCode_2828：首字母缩略词](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_2828_CheckIfAStringIsAnAcronymOfWords.java)
 - [LeetCode_2859：计算 K 位置下标对应元素的和](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_2859_SumOfValuesAtIndicesWithKSetBits.java)
 
