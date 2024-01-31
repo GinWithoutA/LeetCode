@@ -244,6 +244,7 @@
 ## 18. 分治
 ##### 具体题目
 - [LeetCode_0108：将有序数组转换为二叉搜索树](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0108_ConvertSortedArrayToBinarySearchTree.java)
+- [LeetCode_0148：排序链表](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0148_SortList.java)
 ## 19. 数字
 ##### 具体数字
 - [LeetCode_0009：回文数](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0009_PalindromeNumber.java)
