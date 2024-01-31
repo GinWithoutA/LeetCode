@@ -240,6 +240,7 @@
 - [LeetCode_0051：N皇后](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0051_NQueens.java)
 - [LeetCode_0052：N皇后Ⅱ](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0052_NQueensII.java)
 - [LeetCode_0077：组合](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0077_Combinations.java)
+- [LeetCode_0079：单词搜索](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0079_WordSearch.java)
 ## 18. 数字
 ##### 具体数字
 - [LeetCode_0009：回文数](https://github.com/GinWithoutA/LeetCode/blob/main/src/main/java/org/ginwithouta/leetcode/Problem_0009_PalindromeNumber.java)
