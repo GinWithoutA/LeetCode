@@ -1,4 +1,4 @@
-package org.ginwithouta.leetcode.common.tree;
+package org.ginwithouta.leetcode.common;
 
 /**
  * 单链表节点类

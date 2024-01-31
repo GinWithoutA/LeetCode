@@ -1,6 +1,6 @@
 package org.ginwithouta.leetcode;
 
-import org.ginwithouta.leetcode.common.TreeNode;
+import org.ginwithouta.leetcode.common.tree.TreeNode;
 
 import java.util.HashMap;
 import java.util.Map;
