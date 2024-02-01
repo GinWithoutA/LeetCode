@@ -41,11 +41,4 @@ public class Problem_0023_MergeKSortedList {
         cur.next = null;
         return head;
     }
-
-    public ListNode mergeLists(ListNode[] lists) {
-        /*
-         * 还可以通过归并排序进行处理
-         */
-        return null;
-    }
 }
