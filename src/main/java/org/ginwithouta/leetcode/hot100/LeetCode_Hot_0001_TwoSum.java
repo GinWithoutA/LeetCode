@@ -6,8 +6,9 @@ import java.util.Map;
 /**
  * @author Ginwithouta
  * Generate at 2024/2/16
+ * LeetCode Hot 100 两数之和
  */
-public class LeetCode_hot_001_TwoSum {
+public class LeetCode_Hot_0001_TwoSum {
     public int[] twoSum(int[] nums, int target) {
         Map<Integer, Integer> map = new HashMap<>();
         for (int i = 0; i < nums.length; ++i) {
