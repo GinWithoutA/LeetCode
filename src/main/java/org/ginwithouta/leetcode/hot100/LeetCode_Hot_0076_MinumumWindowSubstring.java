@@ -13,8 +13,8 @@ public class LeetCode_Hot_0076_MinumumWindowSubstring {
          * 关键点在于如何控制窗口，我们不断往右移动，同时记录当前匹配到了多少个字符，当所有的字符匹配完成后，
          * 我们再去处理左边窗口包含的多余字符（移动到 map 中的值不是 < 0 的情况就行），此时记录 ans 值
          */
-        if (s.length() <= t.length()) {
-            return Objects.equals(s, t) ? s : "";
+        if (s.length() < t.length()) {
+            return "";
         }
         int[] map = new int[256];
         char[] strs = s.toCharArray(), ttrs = t.toCharArray();
