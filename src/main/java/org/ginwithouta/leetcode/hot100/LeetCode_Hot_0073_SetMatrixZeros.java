@@ -8,6 +8,7 @@ import java.util.Arrays;
  * LeetCode Hot 100 矩阵置零
  */
 public class LeetCode_Hot_0073_SetMatrixZeros {
+
     public void setZeros(int[][] matrix) {
         /*
          * 新增一个变量标识第一行是否需要变零，其他的正常遍历，若为0，所在列的第一个元素变零，所在行的第一个元素变零
