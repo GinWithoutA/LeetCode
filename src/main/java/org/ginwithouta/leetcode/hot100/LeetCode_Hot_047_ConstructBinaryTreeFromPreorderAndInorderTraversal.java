@@ -2,8 +2,6 @@ package org.ginwithouta.leetcode.hot100;
 
 import org.ginwithouta.leetcode.common.tree.TreeNode;
 
-import java.util.spi.ResourceBundleProvider;
-
 /**
  * @author Ginwithouta
  * Generate at 2024/2/22
