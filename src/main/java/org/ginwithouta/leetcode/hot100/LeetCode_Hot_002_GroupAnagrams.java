@@ -5,9 +5,9 @@ import java.util.*;
 /**
  * @author Ginwithouta
  * Generate at 2024/2/16
- * LeetCode 热题 100 字母异位词分组
+ * LeetCode Hot 100 字母异位词分组
  */
-public class LeetCode_Hot_0049_GroupAnagrams {
+public class LeetCode_Hot_002_GroupAnagrams {
     public List<List<String>> groupAnagrams(String[] strs) {
         Map<String, List<String>> map = new HashMap<>();
         for (String str : strs) {
