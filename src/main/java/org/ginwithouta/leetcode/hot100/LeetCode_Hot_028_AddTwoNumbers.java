@@ -7,7 +7,7 @@ import org.ginwithouta.leetcode.common.ListNode;
  * Generate at 2024/2/21
  * LeetCode Hot 100 两数相加
  */
-public class LeetCode_Hot_0002_AddTwoNumbers {
+public class LeetCode_Hot_028_AddTwoNumbers {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         int in = 0, a, b, sum;
         ListNode dummyNode = new ListNode(), prev = dummyNode;

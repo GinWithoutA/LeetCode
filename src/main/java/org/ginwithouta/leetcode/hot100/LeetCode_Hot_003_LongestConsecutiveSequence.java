@@ -7,7 +7,7 @@ import java.util.Arrays;
  * Generate at 2024/2/16
  * LeetCode Hot 100 最长连续序列
  */
-public class LeetCode_Hot_0128_LongestConsecutiveSequence {
+public class LeetCode_Hot_003_LongestConsecutiveSequence {
     public int longestConsecutive(int[] nums) {
         if (nums.length == 0) {
             return 0;
