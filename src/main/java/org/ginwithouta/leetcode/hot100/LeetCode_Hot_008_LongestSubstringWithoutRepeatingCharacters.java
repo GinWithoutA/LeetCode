@@ -6,7 +6,7 @@ import java.util.Arrays;
  * Generate at 2024/2/17
  * 无重复字符的最长字串
  */
-public class LeetCode_Hot_0003_LongestSubstringWithoutRepeatingCharacters {
+public class LeetCode_Hot_008_LongestSubstringWithoutRepeatingCharacters {
     public int lengthOfLongestSubstring(String s) {
         if (s.length() < 2) {
             return s.length();
