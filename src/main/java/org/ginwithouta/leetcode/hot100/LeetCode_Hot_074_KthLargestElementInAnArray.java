@@ -15,7 +15,7 @@ public class LeetCode_Hot_074_KthLargestElementInAnArray {
         }
         int left = 0, right = nums.length - 1, index = nums.length - k;
         while (left < right) {
-            int pivot = nums[left + (int) (Math.random() *  (right - left + 1))];
+            int pivot = nums[left + (int) (Math.random() * (right - left + 1))];
             int[] range = partition(nums, left, right, pivot);
             if (index >= range[0] && index <= range[1]) {
                 return nums[index];
@@ -39,7 +39,7 @@ public class LeetCode_Hot_074_KthLargestElementInAnArray {
                 ++index;
             }
         }
-        return new int[] {less + 1, right};
+        return new int[] {less + 1, more};
     }
 
     public void swap(int[] nums, int left, int right) {
