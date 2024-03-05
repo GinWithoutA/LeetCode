@@ -5,7 +5,7 @@ package org.ginwithouta.leetcode.hot100;
  * Generate at 2024/2/17
  * LeetCode Hot 100 盛水最多的容器
  */
-public class LeetCode_Hot_0011_ContainerWithMostWater {
+public class LeetCode_Hot_005_ContainerWithMostWater {
     public int maxArea(int[] height) {
         /*
          * 若后续的值比当前的值小，是没有必要操作的，直接加速剪枝

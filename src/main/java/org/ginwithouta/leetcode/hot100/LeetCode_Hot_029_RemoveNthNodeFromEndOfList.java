@@ -7,7 +7,7 @@ import org.ginwithouta.leetcode.common.ListNode;
  * Generate at 2024/2/21
  * LeetCode Hot 100 删除链表的倒数第 N 个结点
  */
-public class LeetCode_Hot_0019_RemoveNthNodeFromEndOfList {
+public class LeetCode_Hot_029_RemoveNthNodeFromEndOfList {
     public ListNode removeNthFromEnd(ListNode head, int n) {
         if (head.next == null) {
             return null;

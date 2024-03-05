@@ -7,7 +7,7 @@ import java.util.*;
  * Generate at 2024/2/17
  * LeetCode Hot 100 盛水最多的容器
  */
-public class LeetCode_Hot_0015_3Sum {
+public class LeetCode_Hot_006_3Sum {
     public List<List<Integer>> threeSum(int[] nums) {
         List<List<Integer>> ans = new ArrayList<>();
         Arrays.sort(nums);
