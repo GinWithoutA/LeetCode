@@ -7,7 +7,7 @@ import java.util.Arrays;
  * Generate at 2024/3/5
  * LeetCode Hot 100 不同路径
  */
-public class LeetCode_Hot_089_UniquePaths {
+public class LeetCode_Hot_091_UniquePaths {
     /**
      * 暴力递归
      */
