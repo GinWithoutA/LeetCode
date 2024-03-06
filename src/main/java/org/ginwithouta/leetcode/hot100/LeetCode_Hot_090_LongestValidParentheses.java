@@ -1,7 +1,6 @@
 package org.ginwithouta.leetcode.hot100;
 
 import java.util.ArrayDeque;
-import java.util.Arrays;
 import java.util.Deque;
 
 /**
@@ -9,7 +8,7 @@ import java.util.Deque;
  * Generate at 2024/3/5
  * LeetCode Hot 100 最长有效括号
  */
-public class LeetCode_Hot_088_LongestValidParentheses {
+public class LeetCode_Hot_090_LongestValidParentheses {
     public int longestValidParentheses(String s) {
         /*
          * 栈中我们记录一个没有被匹配的最右括号，同时初始化栈的时候加入一个初始字符，
