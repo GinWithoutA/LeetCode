@@ -1,7 +1,5 @@
 package org.ginwithouta.leetcode.hot100;
 
-import com.sun.jdi.VMCannotBeModifiedException;
-
 import java.util.Arrays;
 
 /**
@@ -9,7 +7,7 @@ import java.util.Arrays;
  * Generate at 2024/3/4
  * LeetCode Hot 100 分割等和子集
  */
-public class LeetCode_Hot_087_PartitionEqualSubsetSum {
+public class LeetCode_Hot_089_PartitionEqualSubsetSum {
     public boolean canPartition(int[] nums) {
         /*
          * 首先有两个基本条件，如果数组和不是偶数，那么一定是 false，如果数组中最大的数超过了数组和的一半，
