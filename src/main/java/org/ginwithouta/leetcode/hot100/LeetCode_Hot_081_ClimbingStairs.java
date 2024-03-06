@@ -5,7 +5,7 @@ package org.ginwithouta.leetcode.hot100;
  * Generate at 2024/2/29
  * LeetCode Hot 100 爬楼梯
  */
-public class LeetCode_Hot_080_ClimbingStairs {
+public class LeetCode_Hot_081_ClimbingStairs {
     public int climbStairs(int n) {
         /*
          * 本题动态规划的公式是 f(x) = f(x - 1) + f(x - 2)
