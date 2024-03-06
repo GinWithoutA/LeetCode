@@ -8,7 +8,7 @@ import java.util.List;
  * Generate at 2024/2/29
  * LeetCode Hot 100 划分字母区间
  */
-public class LeetCode_Hot_079_PartitionLabels {
+public class LeetCode_Hot_080_PartitionLabels {
     public List<Integer> partitionLabels(String s) {
         /*
          * 整体的思路就是记录每一个位置的字符最后出现的位置。接着我们遍历每个字符，不断往右边
