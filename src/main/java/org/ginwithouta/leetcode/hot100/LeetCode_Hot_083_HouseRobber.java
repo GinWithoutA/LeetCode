@@ -5,7 +5,7 @@ package org.ginwithouta.leetcode.hot100;
  * Generate at 2024/3/4
  * LeetCode Hot 100 打家劫舍
  */
-public class LeetCode_Hot_082_HouseRobber {
+public class LeetCode_Hot_083_HouseRobber {
      public int rob(int[] nums) {
          if (nums.length == 1) {
              return nums[0];
