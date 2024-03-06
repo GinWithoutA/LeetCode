@@ -8,7 +8,7 @@ import java.util.List;
  * Generate at 2024/3/1
  * LeetCode Hot 100 杨辉三角
  */
-public class LeetCode_Hot_081_PascalsTriangle {
+public class LeetCode_Hot_082_PascalsTriangle {
     public List<List<Integer>> generate(int numRows) {
         List<List<Integer>> ans = new ArrayList<>();
         for (int i = 0; i < numRows; ++i) {
