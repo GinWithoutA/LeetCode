@@ -9,7 +9,6 @@ import java.util.Arrays;
  */
 public class LeetCode_Hot_087_LongestIncresingSubsequence {
     public int lengthOfLIS(int[] nums) {
-
         if (nums.length == 1) {
             return 1;
         }

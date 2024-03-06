@@ -8,7 +8,7 @@ import java.util.List;
  * Generate at 2024/3/4
  * LeetCode Hot 100 单词拆分
  */
-public class LeetCode_Hot_084_WordBreak {
+public class LeetCode_Hot_086_WordBreak {
     /**
      * 暴力递归
      */
