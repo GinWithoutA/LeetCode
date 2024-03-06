@@ -5,7 +5,7 @@ package org.ginwithouta.leetcode.hot100;
  * Generate at 2024/3/4
  * LeetCode Hot 100 乘积最大的子数组
  */
-public class LeetCode_Hot_086_MaximumProductSubarray {
+public class LeetCode_Hot_088_MaximumProductSubarray {
     public int maxProduct(int[] nums) {
         int min = nums[0], max = nums[0], ans = nums[0];
         for (int i = 1; i < nums.length; ++i) {
