@@ -7,7 +7,7 @@ import java.util.Arrays;
  * Generate at 2024/3/4
  * LeetCode Hot 100 零钱兑换
  */
-public class LeetCode_Hot_083_CoinChange {
+public class LeetCode_Hot_085_CoinChange {
     public int coinChange(int[] coins, int amount) {
         int[] dp = new int[amount + 1];
         Arrays.fill(dp, amount + 1);
