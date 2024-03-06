@@ -7,7 +7,7 @@ import java.util.Arrays;
  * Generate at 2024/3/4
  * LeetCode Hot 100 最长递增子序列
  */
-public class LeetCode_Hot_085_LongestIncresingSubsequence {
+public class LeetCode_Hot_087_LongestIncresingSubsequence {
     public int lengthOfLIS(int[] nums) {
 
         if (nums.length == 1) {
