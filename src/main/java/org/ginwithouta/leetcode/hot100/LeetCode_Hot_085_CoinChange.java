@@ -22,6 +22,26 @@ public class LeetCode_Hot_085_CoinChange {
         return dp[amount] > amount ? -1 : dp[amount];
     }
 
+    /**
+     * 尝试，暴力递归
+     */
+    public int coinChange1(int[] coins, int amount) {
+        return process(coins, amount, 0);
+    }
+
+    public int process(int[] coins, int left, int idx) {
+        if (idx == coins.length) {
+            return left == 0 ? 0 : -1;
+        }
+        int ans = Integer.MAX_VALUE;
+        for (int zhang = 0; zhang * coins[idx] <= left; ++zhang) {
+            int res = process(coins, left - zhang * coins[idx], idx + 1);
+            if (res != -1) {
+                ans = Math.min(zhang + res, ans);
+            }
+        }
+        return ans == Integer.MAX_VALUE ? -1 : ans;
+    }
 
 
 }
