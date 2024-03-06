@@ -5,7 +5,7 @@ package org.ginwithouta.leetcode.hot100;
  * Generate at 2024/3/6
  * LeetCode Hot 100 最小路径和
  */
-public class LeetCode_Hot_090_MinimumPathSum {
+public class LeetCode_Hot_092_MinimumPathSum {
     /**
      * 暴力递归
      */
