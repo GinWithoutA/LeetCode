@@ -5,7 +5,7 @@ package org.ginwithouta.leetcode.hot100;
  * Generate at 2024/3/4
  * LeetCode Hot 100 完全平方数
  */
-public class LeetCode_Hot_082_PerfectSquares {
+public class LeetCode_Hot_084_PerfectSquares {
     public int numSquares(int n) {
         /*
          * 计算 i - j * j 需要多少个数表示，最后计算每一个 dp 位置的时候
