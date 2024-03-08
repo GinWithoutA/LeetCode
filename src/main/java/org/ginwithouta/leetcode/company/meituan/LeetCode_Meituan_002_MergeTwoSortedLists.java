@@ -7,7 +7,7 @@ import org.ginwithouta.leetcode.common.ListNode;
  * Generate at 2024/3/8
  * LeetCode 美团 合并两个有序链表
  */
-public class LeetCode_Metituan_002_MergeTwoSortedLists {
+public class LeetCode_Meituan_002_MergeTwoSortedLists {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
         if (list1 == null || list2 == null) {
             return list1 == null ? list2 : list1;
