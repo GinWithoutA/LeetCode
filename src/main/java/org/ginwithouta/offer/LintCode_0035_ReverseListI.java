@@ -7,7 +7,7 @@ import org.ginwithouta.leetcode.common.ListNode;
  * Generate at 2024/3/7
  * LintCode 剑指 Offer 翻转链表（一）
  */
-public class LeetCode_0035_ReverseListI {
+public class LintCode_0035_ReverseListI {
     public ListNode reverse(ListNode head) {
         if (head == null || head.next == null) {
             return head;
