@@ -1,7 +1,5 @@
 package org.ginwithouta.leetcode.interview150;
 
-import java.util.Arrays;
-
 /**
  * @author Ginwithouta
  * Generate at 2024/3/29
