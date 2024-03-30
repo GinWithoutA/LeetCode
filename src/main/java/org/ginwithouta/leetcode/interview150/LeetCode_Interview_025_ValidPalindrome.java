@@ -10,10 +10,10 @@ public class LeetCode_Interview_025_ValidPalindrome {
         char[] str = s.toLowerCase().toCharArray();
         int left = 0, right = str.length - 1;
         while (left < right) {
-            while (left < right && !isTrue(str[left])) {
+            while (left < right && isTrue(str[left])) {
                 ++left;
             }
-            while (left < right && !isTrue(str[right])) {
+            while (left < right && isTrue(str[right])) {
                 --right;
             }
             if (left >= right) {
@@ -27,7 +27,7 @@ public class LeetCode_Interview_025_ValidPalindrome {
     }
 
     public boolean isTrue(char c) {
-        return (c >= '0' && c <= '9') || (c >= 'a' && c <= 'z');
+        return (c < '0' || c > '9') && (c < 'a' || c > 'z');
     }
 
 }
