@@ -5,7 +5,7 @@ package org.ginwithouta.leetcode.interview150;
  * Generate at 2024/4/5
  * LeetCode 面试经典 150 旋转图像
  */
-public class LeetCode_Interview_RotateImage {
+public class LeetCode_Interview_036_RotateImage {
     public void rotate(int[][] matrix) {
         int top = 0, bot = matrix.length - 1;
         while (top < bot) {
