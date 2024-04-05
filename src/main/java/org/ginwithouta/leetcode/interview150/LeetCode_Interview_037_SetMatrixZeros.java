@@ -7,7 +7,7 @@ import java.util.Arrays;
  * Generate at 2024/4/5
  * LeetCode 面试经典 150 矩阵置零
  */
-public class LeetCode_Interview_038_SetMatrixZeros {
+public class LeetCode_Interview_037_SetMatrixZeros {
     public void setZeroes(int[][] matrix) {
         int rowZeros = 1;
         for (int i = 0; i < matrix.length; ++i) {
