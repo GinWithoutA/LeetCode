@@ -23,14 +23,17 @@ public class LeetCode_Interview_038_GameOfLife {
     }
     private int countCells(int[][] board, int row, int col) {
         int ans = 0;
-        ans += row - 1 >= 0 && col - 1 >= 0 && board[row - 1][col - 1] == 1 ? 1 : 0;
-        ans += row - 1 >= 0 && board[row - 1][col] == 1 ? 1 : 0;
-        ans += row - 1 >= 0 && col + 1 < board[0].length && board[row - 1][col + 1] == 1 ? 1 : 0;
-        ans += col - 1 >= 0 && board[row][col - 1] == 1 ? 1 : 0;
-        ans += col + 1 < board[0].length && board[row][col + 1] == 1 ? 1 : 0;
-        ans += row + 1 < board.length && col - 1 >= 0 && board[row + 1][col - 1] == 1 ? 1 : 0;
-        ans += row + 1 < board.length && board[row + 1][col] == 1 ? 1 : 0;
-        ans += row + 1 < board.length && col + 1 < board[0].length && board[row + 1][col + 1] == 1 ? 1 : 0;
+        ans += ok(board, row - 1, col - 1) ? 1 : 0;
+        ans += ok(board, row - 1, col) ? 1 : 0;
+        ans += ok(board, row - 1, col + 1) ? 1 : 0;
+        ans += ok(board, row, col - 1) ? 1 : 0;
+        ans += ok(board, row, col + 1) ? 1 : 0;
+        ans += ok(board, row + 1, col - 1) ? 1 : 0;
+        ans += ok(board, row + 1, col) ? 1 : 0;
+        ans += ok(board, row + 1, col + 1) ? 1 : 0;
         return ans;
+    }
+    private boolean ok(int[][] board, int row, int col) {
+        return row >= 0 && row < board.length && col >= 0 && col < board[0].length && (board[row][col] & 1) == 1;
     }
 }
